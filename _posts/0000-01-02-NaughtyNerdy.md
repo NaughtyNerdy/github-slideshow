@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-This is only a test. 
+*Eyes Up Guardian*
 Use the left arrow to go back!
